@@ -86,6 +86,9 @@ how to deploy
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## 🔗 Reference
-some reference links to documentations
+some reference links to documentations:\
+https://github.com/jshafer817/vJoy/releases/tag/v2.1.9.1 \
+https://github.com/rlj1202/JvJoyInterface \
+https://twitchapps.com/tmi/
 
 <p align="right">(<a href="#top">back to top</a>)</p>
